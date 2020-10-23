@@ -1,0 +1,15 @@
+.cache
+/node_modules
+
+# MAC
+.DS_Store
+__MACOS_X
+/.idea
+.idea
+
+#vscode
+.vscode
+
+
+# yarn
+yarn-error.log

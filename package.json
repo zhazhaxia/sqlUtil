@@ -1,0 +1,9 @@
+{
+  "name": "sqlUtil",
+  "version": "1.0.0",
+  "description": "mysql util to operate data",
+  "main": "index.js",
+  "repository": "https://github.com/zhazhaxia/sqlUtil.git",
+  "author": "zhazhaxia",
+  "license": "MIT"
+}
